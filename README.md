@@ -1,12 +1,14 @@
-### Hi there 👋 I'm Preet Kothari
+### 👋 Hey there! I'm Preet Kothari
 
-Currently a working professional at ONGC, blessed but not where I aim to be. 
+💼 Currently a working professional at ONGC, blessed but not where I aim to be. 
 
-I have completed my B. Tech in Petroleum Engineering from the Indian Institute of Technology (ISM) Dhanbad, India. So, I am a Petroleum Engineer by degree but a Data Scientist by passion!
+🎓 I hold a B.Tech in Petroleum Engineering from the prestigious Indian Institute of Technology (ISM) Dhanbad, India. While my degree qualifies me as a Petroleum Engineer, my true passion lies in the realm of Data Science.
 
-I am interested in the domains of Machine Learning/AI, Data Science & Analytics, Business Intelligence, and Natural Language Processing.
+💻 By day, I tackle challenges in the energy sector, but by night (and any other spare moment), I dive deep into the exciting worlds of Machine Learning/AI, Data Science & Analytics, Business Intelligence, and Natural Language Processing.
 
+🚀 I'm on a journey to bridge the gap between my engineering background and my passion for data-driven insights, constantly seeking new opportunities to apply my skills and make a meaningful impact.
 
+📱 Let's connect and collaborate on innovative projects that push the boundaries of what's possible in data science and beyond!
 
 <!--
 **PreetKothari/PreetKothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
